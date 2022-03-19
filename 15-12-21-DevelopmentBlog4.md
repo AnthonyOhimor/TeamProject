@@ -1,3 +1,8 @@
+---
+Author: Ohimor Anthony 
+Layout: Post 
+Title: "Development Blog"
+---
 ## Rock Paper Scissors 
 > The teams experience producing The Hack has led them to believe it is not feasible to develop a product of sufficient quality in time for the Minimum Viable Product if they continue on the same path.
 >
