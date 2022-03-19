@@ -1,3 +1,9 @@
+---
+Layout: Post
+Author: Anthony Ohimor 
+Title: "Treasure Twins"
+
+---
 ## Treasure Twins
  Game scope reduction due to technical difficulties and an unfamiliarity with the new necessary tools and languages. Difficult to design and implement particular game elements due to a lack or online resources closely relating to our unique game idea.
 
