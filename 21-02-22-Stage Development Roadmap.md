@@ -1,3 +1,8 @@
+---
+Layout: Post 
+Title: " Phase 1 development"
+Author: Anthony Oimor 
+---
 **Phase 1 - High Level Plan**
 We conducted market research. totalling tens of hours playtime on various Flash game sites such as Newgrounds, ArmorGames and more while also exploring recent trends in web gaming such as Among Us and ZOMBS.io. All to inspire the team to deliver the game we think will be most fun to play. 
  
