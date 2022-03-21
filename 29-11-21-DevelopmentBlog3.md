@@ -16,7 +16,8 @@ A change in game at this point is to be discussed in order to enable further res
 
 Incorporating many more features to the RPS game, such as hand gestures, taunts, live chat, lives, power ups and a variety of different game modes and conditions changing the nature of the game.
 
-Theme continued from the Treasure Twins, whereby the duel is ultimately the ultimatum which was discussed from the initial game. Both Bruce and Beatrice have reached the treasure but only one can escape with the treasure alive! And so much duel to escape to live a life of riches!![Alternative Image](https://img.itch.zone/aW1nLzcxNDkyNjAuZ2lm/508x254%23mb/vukRX6.gif) <br>
+Theme continued from the Treasure Twins, whereby the duel is ultimately the ultimatum which was discussed from the initial game. Both Bruce and Beatrice have reached the treasure but only one can escape with the treasure alive! And so much duel to escape to live a life of riches<br>
+!![Alternative Image](https://img.itch.zone/aW1nLzcxNDkyNjAuZ2lm/508x254%23mb/vukRX6.gif) <br>
 
 
 
