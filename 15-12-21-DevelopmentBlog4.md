@@ -1,6 +1,7 @@
 ---
-Author: Ohimor Anthony 
+Author: Umar Chothia  
 Layout: Post 
+Content: Anthony Ohimor 
 Title: "Development Blog"
 ---
 ## Rock Paper Scissors 
