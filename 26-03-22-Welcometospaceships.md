@@ -1,3 +1,12 @@
+---
+Author: Harry Newman
+Layout: Post
+Title: "Starships"
+Content: Anthony Ohimor 
+
+---
+
+
 # welcome to Starship wars
 
 Starship Wars takes place in the NGC 4696 elliptical galaxy, 114 million light years from Earth. In the year 3092, Neptilians are intergalactic alien raiders who drain the dark-matter from neighbouring galaxies, causing the galaxy to weaken and black holes to open, destroying whole worlds that once teamed with life. The Darknauts are space rangers formed by an intergovernmental military alliance between 28 galaxies. <br>
