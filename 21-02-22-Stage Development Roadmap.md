@@ -10,7 +10,7 @@ We conducted market research. totalling tens of hours playtime on various Flash 
  
 The team has been assigned roles and have put together personal plans to ready us for development<br>
 
-![Alternative Image ](Asteroid2.png)<br >
+![Alternative Image ](https://cdn.discordapp.com/attachments/905913951559221308/946778564802535494/Screen_Shot_2022-02-25_at_2.38.48_PM.png)<br >
 
 The team has been assigned roles and have put together personal plans to ready us for development.<br>
 
