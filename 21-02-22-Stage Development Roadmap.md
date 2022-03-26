@@ -14,7 +14,7 @@ The team has been assigned roles and have put together personal plans to ready u
 
 The team has been assigned roles and have put together personal plans to ready us for development.<br>
 
-![Alternative Image](Crosshairs.png)<br>
+![Alternative Image]https://cdn.discordapp.com/attachments/905913951559221308/950346481091633182/Screenshot_2022-03-07_at_10.01.10_AM.png)<br>
 
 **Phase 2 - Taking Form**
 This is where development has begun on basic mechanics. The art team are experimenting with UI/UX elements, storyboarding game scenes and shaping the aesthetic. The programming team are constructing the framework for the game, making game objects and scripting components and behaviour of the game<br>
