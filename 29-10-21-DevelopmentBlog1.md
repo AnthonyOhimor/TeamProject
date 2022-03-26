@@ -1,7 +1,8 @@
 ---
 Layout: post
 Title: "Development Blog 1"
-Author: Anthony Ohimor 
+Author: Umar Chothia
+Content: Anthony Ohimor 
 ---
 
 # First Phase Of Development 
