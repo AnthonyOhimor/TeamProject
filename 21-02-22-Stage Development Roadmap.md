@@ -19,9 +19,6 @@ The team has been assigned roles and have put together personal plans to ready u
 **Phase 2 - Taking Form**
 This is where development has begun on basic mechanics. The art team are experimenting with UI/UX elements, storyboarding game scenes and shaping the aesthetic. The programming team are constructing the framework for the game, making game objects and scripting components and behaviour of the game<br>
 
-![](https://cdn.discordapp.com/attachments/905913951559221308/947117583046422538/Screenshot_2022-02-26_at_1.04.20_PM.png)<br>
-
-![Alternative Image](https://cdn.discordapp.com/attachments/905913951559221308/947806645185028126/Sci_Fi_Button_With_Case.png)<br>
  
 **Phase 3 - Deploying Sub Systems** 
 
