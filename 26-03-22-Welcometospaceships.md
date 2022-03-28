@@ -2,7 +2,7 @@
 Author: Harry Newman
 Layout: Post
 Title: "Starships"
-Content: Anthony Ohimor 
+Uploaded by: Anthony Ohimor 
 
 ---
 
