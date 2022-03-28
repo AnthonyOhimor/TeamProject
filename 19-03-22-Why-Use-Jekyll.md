@@ -12,14 +12,15 @@ Jekyll is a static site generator that takes markdown syntax and converts to htm
 
 Jekyll also supports loading content from JSON AND YAML files. It is the most common static site generator because of its adoption by github <br>
 
-As a team we had certain members stuggling to use other tools like wordpress and Html to make our website. This was having a negtive impact on the overall health of the project. It was wise we looked for alternatives <br>
+As a team, we had certain members struggling to use other tools like WordPress and HTML to make our website. This problem was having a negative impact on the overall health of the project. It was wise we looked for alternatives.<br>
 
 Considering the time frame jekyll was a very vaible choice for us as it is quick to understand and there are provided documentation to guide you through.<br>
 
 
 ![Alternative image](https://opensource.com/sites/default/files/first-jekyll-serve.png)<br>
 
-Jekyll was originakky released by Tom Preston in  early 2008 It was then taken  over by Parker Moore, who led the effort in releasing Jekyll 1.
+
+Jekyll was originally released by Tom Preston in early 2008. It was then taken over by Parker Moore, who led the effort in releasing Jekyll 1.
 
 Jekyll can be used in with some front end frame work like [Boot-strap](https://getbootstrap.com) and many others.<br>
 
