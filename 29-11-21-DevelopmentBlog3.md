@@ -2,7 +2,7 @@
 Layout: Post
 Author: Umar Chothia
 Title: "Treasure Twins"
-Creator: Anthony Ohimor 
+Uploaded by : Anthony Ohimor 
 
 ---
 ## Treasure Twins
