@@ -2,7 +2,7 @@
 Layout: post
 Title: "Development Blog 1"
 Author: Umar Chothia
-Content: Anthony Ohimor 
+Uploaded by : Anthony Ohimor 
 ---
 
 # First Phase Of Development 
