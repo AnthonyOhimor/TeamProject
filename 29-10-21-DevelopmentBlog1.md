@@ -7,7 +7,7 @@ Content: Anthony Ohimor
 
 # First Phase Of Development 
 **The Kickoff** took place and team M3 is formed and introduced. A team of 8: Umar Chothia, Adam Bassett, Harry Newman, Finbar Evans, Foudia Kargbo, Anthony Eseoghene Ohimor, Ayesha Akhtar and Sai Sri Harsha Jami. All from diverse backgrounds and disciplines. Ice broken and team exercises commenced. With the opening session closing with each member making a pledge to the team <br>
-![Alternative image](https://images.unsplash.com/photo-1620325867502-221cfb5faa5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c3RpY2t5JTIwbm90ZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60)<br>
+![Alternative image](https://images.unsplash.com/photo-1512758017271-d7b84c2113f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGJyYWluc3Rvcm1pbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60)<br>
  
 Strengths, weaknesses, and preferences discussed amongst team members to give an idea to who will be working on which element of the project. Shortly followed by brainstorms to the type of game which is to be developed. 
 
