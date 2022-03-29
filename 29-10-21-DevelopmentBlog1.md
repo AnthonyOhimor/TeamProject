@@ -15,7 +15,8 @@ Strengths, weaknesses, and preferences discussed amongst team members to give an
 ![Alternative Picture](https://images.unsplash.com/photo-1542446633-362158ea0052?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGNvbW1vbndlYWx0aCUyMGdhbWVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60) <br>
 
 Also to be considered: Battleships, Card games: Crazy 8, Takeover Map game, bottle-flip game, territory wars.
+Mechanics? Clicking mechanics. Alternating clicking sports games, speed of clicks used in other existing mini-clip games. Holding key mechanics, which are time based. Further exploration and experimentation under way via Game play research.
 ![Alternative image ](https://cdn.discordapp.com/attachments/905913951559221308/940225342126325760/Eldencourci_and_Free_for_personal_use_only.png) <br>
  
-Mechanics? Clicking mechanics. Alternating clicking sports games, speed of clicks used in other existing mini-clip games. Holding key mechanics, which are time based. Further exploration and experimentation under way via Game play research.
+
  
