@@ -19,4 +19,3 @@ Also to be considered: Battleships, Card games: Crazy 8, Takeover Map game, bott
  
 Mechanics? Clicking mechanics. Alternating clicking sports games, speed of clicks used in other existing mini-clip games. Holding key mechanics, which are time based. Further exploration and experimentation under way via Game play research.
  
-![Alternative image](https://images.unsplash.com/photo-1615912265844-dac2071fd173?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c3BvcnRzJTIwZ2FtZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60)
