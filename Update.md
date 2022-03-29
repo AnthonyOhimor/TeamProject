@@ -11,7 +11,6 @@ We conducted market research. totalling tens of hours playtime on various Flash 
 The team has been assigned roles and have put together personal plans to ready us for development.<br>
 ![Alternative Image](https://cdn.discordapp.com/attachments/905913951559221308/947806645185028126/Sci_Fi_Button_With_Case.png)<br>
 
-The team has been assigned roles and have put together personal plans to ready us for development.<br>
 
 ![Alternative-image](https://cdn.discordapp.com/attachments/907268700757975081/956994318005075968/Space_Elements_2.png)
 
