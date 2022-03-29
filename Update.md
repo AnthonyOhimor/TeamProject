@@ -8,7 +8,7 @@ Content Creator: Anthony Ohimor
 **Phase 1 - High Level Plan**
 We conducted market research. totalling tens of hours playtime on various Flash game sites such as Newgrounds, ArmorGames and more while also exploring recent trends in web gaming such as Among Us and ZOMBS.io. All to inspire the team to deliver the game we think will be most fun to play. 
  
-The team has been assigned roles and have put together personal plans to ready us for development<br>
+The team has been assigned roles and have put together personal plans to ready us for development.<br>
 ![Alternative Image](https://cdn.discordapp.com/attachments/905913951559221308/947806645185028126/Sci_Fi_Button_With_Case.png)<br>
 
 The team has been assigned roles and have put together personal plans to ready us for development.<br>
@@ -16,7 +16,7 @@ The team has been assigned roles and have put together personal plans to ready u
 ![Alternative-image](https://cdn.discordapp.com/attachments/907268700757975081/956994318005075968/Space_Elements_2.png)
 
 **Phase 2 - Taking Form**
-This is where development has begun on basic mechanics. The art team are experimenting with UI/UX elements, storyboarding game scenes and shaping the aesthetic. The programming team are constructing the framework for the game, making game objects and scripting components and behaviour of the game<br>
+This is where development has begun on basic mechanics. The art team are experimenting with UI/UX elements, storyboarding game scenes and shaping the aesthetic. The programming team are constructing the framework for the game, making game objects and scripting components and behaviour of the game.<br>
 
 ![](https://cdn.discordapp.com/attachments/905913951559221308/947117583046422538/Screenshot_2022-02-26_at_1.04.20_PM.png)<br>
 
@@ -24,20 +24,18 @@ This is where development has begun on basic mechanics. The art team are experim
  
 **Phase 3 - Deploying Sub Systems** 
 
-![Alternative Image](https://cdn.discordapp.com/attachments/905913951559221308/951217723143258183/ship_components.png)
- 
 Art assets are brought into the game as sprites, textures and logos become presentable. Components and scripts come together and go through testing to catch game breaking errors before the game is deployed. 
  
 
 ![Alternative Image ](https://cdn.discordapp.com/attachments/907268700757975081/956993981114351636/website_down.png)<br>
 **Phase 4 - Connecting Sub Systems into the Prototype**
 
-Here the game is put together in a MVP form to allow us to test the core mechanics thoroughly and gauge how fun the game is. Here we we will have a more solid idea of what should stay, what should be removed, what needs altering to enhance gameplay. We can also evaluate what is in our means to add to the game before release <br>
+Here the game is put together in a MVP form to allow us to test the core mechanics thoroughly and gauge how fun the game is. Here we we will have a more solid idea of what should stay, what should be removed, what needs altering to enhance gameplay. We can also evaluate what is in our means to add to the game before release. <br>
 
 ![Alternative Image ](https://cdn.discordapp.com/attachments/905913951559221308/952912113658114048/render.png)<br>
 
 **Phase 5 - Down for Repairs**
 
-Janks in the game are ironed out, pieces of the UI/UX are altered to make the game more polished. Features identified to be added are worked on and the game is brought into a more stable state. Based on the feedback of the team the game is refined in line of our vision of the finished product. Bugs are any issues with balancing are eliminated
+Janks in the game are ironed out, pieces of the UI/UX are altered to make the game more polished. Features identified to be added are worked on and the game is brought into a more stable state. Based on the feedback of the team the game is refined in line of our vision of the finished product. Bugs are any issues with balancing are eliminated.
 <br>
 ![Alternative Image ](https://cdn.discordapp.com/attachments/905913951559221308/952912113389690880/greenrender.png)<br>
