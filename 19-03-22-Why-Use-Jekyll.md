@@ -20,10 +20,9 @@ As a team, we had certain members struggling to use other tools like WordPress a
 
 Jekyll was originally released by Tom Preston in 2008. It was then taken over by Parker Moore, who was a major influencer of Jekyll 1.
 
-Jekyll can be used in with some front end frame work like [Boot-strap](https://getbootstrap.com) and many others.<br>
-
-Jekyll also provides documentation for new users, which is quite easy to understand. [Jekyll-documentation](https://jekyllrb.com/docs/) <br>
+Jekyll can be used in with some front end frame work like [Boot-strap](https://getbootstrap.com) and many others. This is one unique quality of the sofware .<br>
+Jekyll also provides documentation for new users, which is quite easy to understand. [Jekyll-documentation](https://jekyllrb.com/docs/).
+Jekyll is  also the engine behind [Git-hub-pages](https://github.com) Which can be used to host sites right from your repository.
 <br>.
 ![Alternative Image ](https://jekyllthemes.io/images/detail/index-detail-05.jpg?_cchid=da44526d0d9b52293863a77bff42d6dd)
 
-Jekyll is the engine behind [Git-hub-pages](https://github.com) Which can be used to host sites right from your repository.
