@@ -15,7 +15,7 @@ As a team, we had certain members struggling to use other tools like WordPress a
 
 
 
-![Alternative image](https://opensource.com/sites/default/files/first-jekyll-serve.png)<br>
+![Alternative image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHMAtS2RAhjV1gGUN9qaKT_WRe4tBOHmD0xuLbQOhCg7afycaTOdVG-kH-GFdL3w1oscU&usqp=CAU)<br>
 
 
 Jekyll was originally released by Tom Preston in 2008. It was then taken over by Parker Moore, who was a major influencer of Jekyll 1.
