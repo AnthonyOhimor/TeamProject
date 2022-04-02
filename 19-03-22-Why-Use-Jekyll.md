@@ -10,10 +10,8 @@ Jekyll is a static site generator that takes markdown syntax and converts to htm
 
 ![Alternaive Image](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGpla3lsbCUyMHdlYnNpdGV8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60) <br>
 
-Jekyll also supports loading content from JSON AND YAML files. It is the most common static site generator because of its adoption by github.<br>
-
-As a team, we had certain members struggling to use other tools like WordPress and HTML to make our website. This problem was having a negative impact on the overall health of the project. It was wise we looked for alternatives. Jekyll for most people is very easy to use, 
-Considering the time frame jekyll was a very vaible choice for us as it is quick to understand and there are provided documentation to guide you through.<br>
+Jekyll also supports loading content from JSON AND YAML files. It is the most common static site generator because of its adoption by Github.
+As a team, we had certain members struggling to use other tools like WordPress and HTML to make our website. This problem was harming the overall health of the project. It was wise that we looked for alternatives. Jekyll for most people is very easy to use, Considering the time frame Jekyll was a very viable choice for us as it is quick to understand and there is provided documentation to guide you through.<br>
 
 
 
@@ -26,7 +24,7 @@ Jekyll can be used in with some front end frame work like [Boot-strap](https://g
 
 Jekyll also provides documentation for new users, which is quite easy to understand. [Jekyll-documentation](https://jekyllrb.com/docs/) <br>
 
-![Alternative image ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOmmsn_meB1TxpVUxDwgfUV7B4F5SVrncLg&usqp=CAU)
+![Alternative image ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMvShrn5DO4U-KR_uawpBuJDHV83GBSohwUiPzrtVQidoyql3GxgCLyUcsEMYCdd9zsj4&usqp=CAU)
 <br>.
 
 Jekyll is the engine behind [Git-hub-pages](https://github.com) Which can be used to host sites right from your repository.
